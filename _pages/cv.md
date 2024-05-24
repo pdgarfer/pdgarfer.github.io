@@ -1,64 +1,45 @@
 ---
 layout: archive
-title: "CV"
+title: "Full curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[You can download my full CV here](https://pdgarfer.github.io/files/CV.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+PhD thesis - 2005 - 2009
+===
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<br/><img src='/images/Thesis.png' alt="drawing" width="300"/> 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Developed at the Material Science Institute in Madrid (CSIC) under the supervision of Prof. Cefe López. In my PhD, I focused on the material-science 
+aspects of complex photonic structures. 
+
+[Download my thesis here](https://pdgarfer.github.io/files/ThesisPDG.pdf)
+
+
+Copenhaguen - 2009 - 2015
+===
+
+After my PhD, I joined the Quantum Photonics group at the Technical University of Denmark led by Prof. Peter Lodahl 
+in 2009 to explore the role of fabrication disorder in state-of-the art semiconductor nanostructures used for quantum photonics. 
+In 2012, the Quantum Photonics group moved to the Niels Bohr Institute at the University of Copenhagen where I was funded by the 
+prestigious three-year young investigator research program from the private foundation Kann Ransmussen Villum as principal investigator. 
+In 2013, I was appointed Assistant Professor to developed several teaching activities in close collaboration with Prof. Dr. Kim Splittorff, 
+the deputy head for teaching at the Niels Bohr Institute.
+
+
+
+Barcelona - 2015 - 2021
+===
+
+In Barcelona, I coordinated a line of research on complex optomechanics within the P2N group leaded at ICN2 by Prof. Clivia M. Sotomayor Torres. I co-supervised two PhDs students (G. Arregui and O. Florez) and supervised
+three postdocs (Dr. J. Gomis-Bresco, Dr. P. Djorwe and Dr. R. Ng) working on the photon - phonon coupling in complex optomechanical nanostructures. 
+I have coordinated the activity of this line of research in different areas such as the calculation of the eigenmodes of the structures, 
+the fabrication of the devices and their experimental (optomechanical) characterization. During this periode, I established and settled my own national 
+and international collaborations with Dr. Daniel Lanzilotti-Kimura at C2N (France), Dr. Søren Stobbe at DTU (Denmark), Prof. Silvia Vignolini at Uni. Cambridge University (UK), Dr. Costanza Toninelli at LENS (Italy), Dr. Daniel Torrent at UJI (Spain) and Prof. Cefe López at CSIC (Spain) leading to publications in Phys. Rev. Lett, Small, Advances Sciences (accepted), APL Photonics or Nature Nanotechnology.

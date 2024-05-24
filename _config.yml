@@ -1,5 +1,3 @@
-
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -9,8 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro David García"
+title                    : "Dr. Pedro David García"
 title_separator          : "-"
+name                     : &name "Pedro David García"
 description              : &description "personal description"
 url                      : https://pdgarfer.github.io # the base hostname & protocol for your site e.g. "https://pdgarfer.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -59,6 +58,10 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -77,15 +80,14 @@ analytics:
 
 # Site Author
 author:
+  name             : "P. David García"
   avatar           : "PDG.png"
-  location         : "https://www.icmm.csic.es/es/"
-  googlescholar    : "https://scholar.google.com/citations?user=&user=TIEyclgAAAAJ"
+  location         : "CSIC - Madrid"
+  googlescholar    : "https://scholar.google.com/citations?user=TIEyclgAAAAJ&hl=es"
   email            : "pd.garcia at csic.es"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "pdgarfer"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Pedro-Garcia-36"
   orcid            : "https://orcid.org/0000-0002-3422-178X"
   twitter          : "@SoerenMuenchen"
- 
 
 
 # Reading Files
@@ -146,13 +148,24 @@ kramdown:
 
 # Collections
 collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  positions:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -174,7 +187,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-   # _publications
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -183,6 +205,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
@@ -195,7 +234,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
