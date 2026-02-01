@@ -19,5 +19,3 @@ These structures — photonic-crystal waveguides and photonic crystals embedding
 - **Cavity quantum electrodynamics in Anderson-localized modes**  
   [PDF](/files/CQAL.pdf)
 
-- **Nonuniversal intensity statistics in disordered photonics**  
-  [PDF](/files/Nonuniversal.pdf)
