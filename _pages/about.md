@@ -8,37 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for stopping by here! I am David and here you can find my research interests. If you find something we can do together, please do contact me <u><a href="mailto:pd.garcia@csic.es">here</a>.</u> :)
+Thank you for stopping by! I am Pedro David García Fernández (David García), and here you can find my research interests. If you think we could work together, please feel free to contact me <u><a href="mailto:pd.garcia@csic.es">here</a></u>.
 
-I am interested in complexity and emergent phenomena in nanophotonic systems. My research background is primarily in disordered photonics, focusing on the role of fabrication disorder in photonic nanostructures where the components (scatterers) exhibit short- and long-range spatial correlations. Disorder, randomness, and broken symmetries are ubiquitous in nature, appearing across vastly different length scales, from atomic lattices to intergalactic dust. Thermal fluctuations and fabrication imperfections introduce disorder in materials. When this disorder has characteristic length scales comparable to the wavelength of propagating waves (optical, mechanical, or electronic), it can strongly affect wave transport through scattering and interference effects. This ultimately leads to multiple scattering and complex phenomena, resulting in thermal heat, electrical resistance, light diffusion, or light localization.
+I am interested in complexity and emergent phenomena in nanophotonic systems. My research background is primarily in disordered photonics, focusing on the role of fabrication disorder in photonic nanostructures where the components (scatterers) exhibit short- and long-range spatial correlations. Disorder, randomness, and broken symmetries are ubiquitous in nature, appearing across vastly different length scales, from atomic lattices to intergalactic dust.
 
-I have mostly explored "frozen" systems, where the structure and dynamics are fixed and linear, respectively. However, in these systems, it is still possible to observe intriguing phenomena when disorder and imperfections appear at length scales similar to visible and near-infrared electromagnetic wavelengths. While this may initially seem problematic, it can also be used to our advantage in technologies involving the emission or propagation of light, such as energy harvesting, imaging, lasing, quantum optics, or information generation and processing.
+Thermal fluctuations and fabrication imperfections introduce disorder in materials. When this disorder has characteristic length scales comparable to the wavelength of propagating waves (optical, mechanical, or electronic), it can strongly affect wave transport through scattering and interference. This leads to multiple scattering and complex phenomena, such as thermal heat transport, electrical resistance, light diffusion, or light localization.
 
-Recently, I have become increasingly interested in nonlinear dynamics and their interplay with fundamental light-matter coupling mechanisms from which interesting emergent phenomena arise. My primary scientific goal now is to exploit these phenomena for information processing. In December 2021, I was apointed tenured researcher (Científico Titular) at the Spanish National Research Council (CSIC). I am setting up a research line on complex optomechanics at the Material Science Institute in Madrid. If you are interested, just contact me <u><a href="mailto:pd.garcia@csic.es">here</a>.</u>
+I have mostly explored “frozen” systems, where the structure and dynamics are fixed and linear, respectively. Even in these systems, intriguing phenomena emerge when disorder appears at length scales comparable to visible and near-infrared wavelengths. What may seem problematic can in fact be exploited in technologies involving light emission and propagation, including energy harvesting, imaging, lasing, quantum optics, and information processing.
 
-<br/><img src='/images/CSIC.png' alt="drawing" width="400"/>
+More recently, I have become increasingly interested in nonlinear dynamics and their interplay with light–matter coupling, from which rich emergent behaviors arise. My current scientific goal is to exploit these phenomena for information processing.
 
-**New Pathfinder project: NEUROPIC**
-------
-In March 2023 we will start a 4-year EU Pathfinder project on integrated and programmable photonic circuits ([NEUROPIC](https://www.neuropic-project.com/) - Nano electro-optomechanical programmable integrated circuits for neuromorphic computing) coordinated by the Material Science Institute in Madrid in collaboration with the Department of Electrical and Photonics Engineering at the DTU (Copenhagen) and the Catalan Institute for Nanoscience and Nanotechnology (Barcelona) and other research institutes and small companies located in Ireland and Germany. 
+In December 2021, I was appointed tenured researcher (Científico Titular) at the Spanish National Research Council (CSIC). I am currently setting up a research line on complex optomechanics at the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). If you are interested, please contact me <u><a href="mailto:pd.garcia@csic.es">here</a></u>.
 
-For more info, listen here (interview on Spanish National Radio) <audio controls> <source src="files/Marca_España.mp3" type="audio/mpeg"> </audio>
+<br/> <img src='/images/CSIC.png' alt="CSIC logo" width="400"/>
 
-Find more information of the running project [here](https://www.neuropic-project.com/)
+### EU Pathfinder project: NEUROPIC (2023–2027)
 
-**New Pathfinder project: ADAPTATION**
-------
-In April 2024, we will start a 4-year EU Pathfinder project, ADAPTATION, to design, characterize, and develop novel devices to harvest energy in a bioinspired way. The project will be carried out by a consortium of nine EU entities: Universidade do Minho and the International Iberian Nanotechnology Laboratory (INL) from Portugal; CSIC, University of Vigo, Avanzare Innovation Tecnologica SL and Cooling Photonics from Spain; University of Strasbourg from France, University of Utrecht from the Netherlands and Sunplugged-solare Energiesysteme GMBH, from Austria.
+In March 2023 we **started** a 4-year EU Pathfinder project on integrated and programmable photonic circuits:  
+[**NEUROPIC**](https://www.neuropic-project.com/) — *Nano electro-optomechanical programmable integrated circuits for neuromorphic computing*.
 
-[Jobs offer here](https://pdgarfer.github.io/positions/)
+The project is coordinated by the **Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC)**, in collaboration with the **Department of Electrical and Photonics Engineering at DTU (Copenhagen)**, the **Catalan Institute of Nanoscience and Nanotechnology (Barcelona)**, and additional research institutes and SMEs in **Ireland and Germany**.
+
+For more information, listen to the interview on Spanish National Radio:
+
+<audio controls>
+  <source src="files/Marca_España.mp3" type="audio/mpeg">
+</audio>
+
+More information: https://www.neuropic-project.com/
+
+---
+
+### EU Pathfinder project: ADAPTATION (2024–2028)
+
+In April 2024 we **started** the 4-year EU Pathfinder project **ADAPTATION**, aimed at designing, characterizing, and developing novel bio-inspired devices for energy harvesting.
+
+The consortium includes nine European partners: **Universidade do Minho** and the **International Iberian Nanotechnology Laboratory (INL)** (Portugal); **CSIC**, **University of Vigo**, **Avanzare Innovation Tecnologica SL**, and **Cooling Photonics** (Spain); **University of Strasbourg** (France); **Utrecht University** (Netherlands); and **Sunplugged Solare Energiesysteme GmbH** (Austria).
+
+---
+
+**Open positions:** https://pdgarfer.github.io/positions/
 
 
 
-Interests
-------
--	Mesoscopic photonics, complexity and localization phenomena
--	Quantum photonics
--	Optomechanics
--	Radiative cooling
--	Hardware for artifitial intelligence and complex neural networks 
+
+## Interests
+- Mesoscopic photonics, complexity, and localization phenomena  
+- Quantum photonics  
+- Optomechanics  
+- Radiative cooling  
+- Hardware for **artificial intelligence** and complex neural networks
+
 
