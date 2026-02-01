@@ -22,8 +22,5 @@ I co-supervised the PhD theses of **Guillermo Arregui** and **Omar Florez**, and
   *Physical Review Letters* **126**, 027403 (2021)  
   [PDF](/files/Quantifying.pdf)
 
-- **Robustness of topological photonic waveguides against disorder**  
-  [PDF](/files/Robustness.pdf)
-
 - **Co-localization effects in disordered photonic structures**  
   [PDF](/files/Colocalization.pdf)
