@@ -26,8 +26,6 @@ A central outcome of this work was the development of a method to **precisely co
   *Advanced Materials* **19**, 2597–2602 (2007)  
   [PDF](/files/PG.pdf)
 
-- **Photonic crystals with controlled disorder**  
-  *Physical Review A* **84**, 023813 (2011)  
-  [PDF](/files/PCD.pdf)
+
 
 
