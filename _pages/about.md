@@ -48,7 +48,8 @@ The consortium includes nine European partners: **Universidade do Minho** and th
 
 ---
 
-**Open positions:** https://pdgarfer.github.io/positions/
+**Open positions:** [pdgarfer.github.io/positions](https://pdgarfer.github.io/positions/)
+
 
 
 
