@@ -7,7 +7,15 @@ redirect_from:
   - /resume
 ---
 
-[You can download my full CV here](https://pdgarfer.github.io/files/CV.pdf)
+[Download my full CV (PDF)](/files/CV.pdf)
+
+
+### Summary
+
+Tenured researcher (*Científico Titular*) at ICMM-CSIC working on nanophotonics, optomechanics, and physical reservoir computing.  
+Coordinator of the EIC Pathfinder **NEUROPIC** and PI in **ADAPTATION**. Total competitive funding as PI: **€2.3M**.
+
+**Keywords:** disordered photonics · nonlinear dynamics · optomechanics · neuromorphic/programmable photonics · radiative cooling
 
 
 
