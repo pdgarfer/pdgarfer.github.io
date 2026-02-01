@@ -18,6 +18,10 @@ I co-supervised the PhD theses of **Guillermo Arregui** and **Omar Florez**, and
 
 ### Selected publications (ICN2)
 
+- **Engineering disorder-induced optical cavities for enhanced optomechanical coupling**  
+  *Nature Nanotechnology* **9**, 285–291 (2014)  
+  [PDF](/files/Engineering.pdf)
+
 - **Quantifying the robustness of topological slow light**  
   *Physical Review Letters* **126**, 027403 (2021)  
   [PDF](/files/Quantifying.pdf)
