@@ -16,12 +16,13 @@ Thermal fluctuations and fabrication imperfections introduce disorder in materia
 
 I have mostly explored “frozen” systems, where the structure and dynamics are fixed and linear, respectively. Even in these systems, intriguing phenomena emerge when disorder appears at length scales comparable to visible and near-infrared wavelengths. What may seem problematic can in fact be exploited in technologies involving light emission and propagation, including energy harvesting, imaging, lasing, quantum optics, and information processing.
 
-More recently, I have become increasingly interested in nonlinear dynamics and their interplay with light–matter coupling, from which rich emergent behaviors arise. My current scientific goal is to exploit these phenomena for information processing.
+More recently, my work has shifted toward active and nonlinear photonic systems, and in particular optomechanical resonators operating close to dynamical instabilities (phonon lasing, self-pulsing, chaos). These systems provide a clean physical platform to study how noise, nonlinearity, and feedback combine to generate rich emergent dynamics.
 
-In December 2021, I was appointed tenured researcher (Científico Titular) at the Spanish National Research Council (CSIC). I am currently setting up a research line on complex optomechanics at the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). If you are interested, please contact me <u><a href="mailto:pd.garcia@csic.es">here</a></u>.
+A central theme of my current research is physical reservoir computing: using the intrinsic dynamics of photonic and optomechanical hardware to process information in real time. Rather than suppressing noise and fluctuations, we explore how computation can emerge from them, particularly near critical transitions where sensitivity, memory, and adaptability are maximized.
+
+In December 2021, I was appointed tenured researcher (Científico Titular) at the Spanish National Research Council (CSIC). I am currently setting up a research line on complex optomechanics and neuromorphic photonics at the Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC). If you are interested, please contact me <u><a href="mailto:pd.garcia@csic.es">here</a></u>.
 
 <br/> <img src='/images/CSIC.png' alt="CSIC logo" width="400"/>
-
 ### EU Pathfinder project: NEUROPIC (2023–2027)
 
 In March 2023 we **started** a 4-year EU Pathfinder project on integrated and programmable photonic circuits:  
