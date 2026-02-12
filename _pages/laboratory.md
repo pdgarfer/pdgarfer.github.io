@@ -5,6 +5,6 @@ permalink: /laboratory/
 author_profile: true
 ---
 
-![Optomechanical laboratory at ICMM-CSIC](/images/Optomechanical_lab.jpg)
+![Optomechanical laboratory at ICMM-CSIC](/images/Optomechanical_lab.jpg){: .full }
 
 *Optomechanical experimental setup at ICMM-CSIC, combining fiber-based interrogation of nanophotonic devices with real-time optical and mechanical readout.*
