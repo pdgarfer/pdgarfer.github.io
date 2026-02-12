@@ -11,7 +11,7 @@ author_profile: true
 
 
 <p>
-The Optomechanics and Complex Photonics Laboratory at ICMM-CSIC is dedicated to the experimental study of nonlinear optomechanical systems and complex light–matter interaction in nanophotonic structures. The laboratory focuses on regimes where disorder, noise, and nonlinear dynamics play a central role, including self-oscillation, bifurcations, and emergent collective behavior.
+The Optomechanics and Complex Photonics Laboratory at ICMM-CSIC was established in December 2021 and has been conceived, equipped, and is scientifically operated under my responsibility. The laboratory is dedicated to the experimental study of nonlinear optomechanical systems and complex light–matter interaction in nanophotonic structures, with a focus on regimes where disorder, noise, and nonlinear dynamics play a central role, including self-oscillation, bifurcations, and emergent collective behavior.
 </p>
 
 <p>
