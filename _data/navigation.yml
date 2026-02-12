@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /portfolio/
     
+  - title: "Laboratory"
+    url: /laboratory/
+    
   - title: "Experience"
     url: /teaching/   
     
@@ -14,4 +17,3 @@ main:
     
   - title: "Open positions"
     url: /positions/
-
