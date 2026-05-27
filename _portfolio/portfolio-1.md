@@ -1,6 +1,6 @@
 ---
 title: "Complex optomechanics"
-excerpt: "<br/><img src='/images/OM_RC.png'>"
+excerpt: "<br/><img src='/images/OM.png'>"
 collection: portfolio
 ---
 
@@ -8,8 +8,8 @@ After many years exploring the role of disorder and imperfection in systems used
 
 While phonons are often regarded as detrimental for quantum photonics because they induce decoherence and spectral broadening, my interest has focused on understanding and exploiting the interaction between telecom-wavelength photons and thermally activated mechanical motion in complex nanophotonic systems. In particular, I investigate how structural disorder, nonlinear dynamics, and dissipation shape the interaction between light and vibrations in optomechanical cavities and waveguides.
 
-Fig. 1. Complex nonlinear optomechanics and reservoir computing  
-<br/><img src='/images/OM_RC.png' alt="drawing" width="900"/>
+Fig. 1. Complex nonlinear optomechanics  
+<br/><img src='/images/OM.png' alt="drawing" width="900"/>
 
 ## Disorder as a resource in optomechanics
 
@@ -47,6 +47,9 @@ Above threshold, the system evolves toward a stable optomechanical limit cycle t
 Using a single chip-integrated optomechanical cavity with time multiplexing and virtual nodes, we demonstrated nonlinear function reconstruction, prediction of chaotic Mackey–Glass time series, and spoken-digit classification. In contrast to many photonic reservoir architectures, the nonlinearity, memory, and dynamical timescale all emerge from the same physical interaction inside the cavity itself.
 
 The intrinsic processing speed of the reservoir is determined by the mechanical resonance frequency. In the present devices, this corresponds to frequencies near 0.4 GHz and nanosecond-scale dynamics, while related optomechanical and nanomechanical systems provide a route toward multi-GHz and potentially sub-terahertz physical computing platforms.
+
+Fig. 3. Optomechanical reservoir computing through nonlinear dynamics  
+<br/><img src='/images/OM_RC.png' alt="drawing" width="900"/>
 
 ### Related publications
 
