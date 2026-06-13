@@ -53,7 +53,7 @@ Fig. 3. Optomechanical reservoir computing through nonlinear dynamics
 
 ### Related publications
 
-**[Computing with the complex nonlinear dynamics of an optomechanical oscillator](https://arxiv.org/abs/2505.01792)**  
+**[Computing with the complex nonlinear dynamics of an optomechanical oscillator](https://arxiv.org/abs/2605.01792)**  
 Shulamit Edelstein, Marcos Menéndez, Bingrui Lu, Babak Vosoughi Lahijani, Cefe López, Miguel C. Soriano, Søren Stobbe, Pedro David García.
 
 ## Invited talk
