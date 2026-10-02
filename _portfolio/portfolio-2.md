@@ -20,3 +20,8 @@ Specifically, we calculate the **backscattering mean free path** and relate it t
 By measuring the structural imperfections (as shown in panels (b) and (c) of the figure) and correlating them with transport properties, we demonstrate that photonic topological phases based on parity-symmetry breaking (such as the valley-Hall effect) are **quantitatively more robust** — by almost a factor of five — than standard waveguides for small disorder levels. However, this advantage gradually disappears as the amount of imperfection increases.
 
 These results show that topology in photonics is **not absolute protection**, but rather a *measurable enhancement of robustness* whose limits can and must be quantified.
+
+
+## Invited talk
+
+I summarize many of the results of this research line in this [talk](https://youtu.be/i6Nxmw4e0cY).
